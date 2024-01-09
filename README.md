@@ -25,15 +25,13 @@
 ---
 
 ### :man_technologist: About Me 
-I am Full Stack Developer. My playground includes the powerful C# and Angular, where I craft digital wonders using Visual Studio as my trusty sidekick.
+I am Full Stack Developer.
+
 - Mastering C#, I conjure up backend systems that are more powerful than a dragon's roar. 💻 
 - Weaving spells with Angular, I enchant users with front-end interfaces that are as smooth as a magic carpet ride. ✨
 - Commanding Visual Studio like a sorcerer's staff, I cast spells of efficiency and debug with the precision of a wizard's spellbook.🧙‍♂️
 - Conjuring magic with JavaScript and TypeScript, I make web applications dance to the beat of user interactions.🕺💃
 - Harnessing the power of ASP.NET, I build fortresses of web applications that can withstand the tests of time and cyber dragons. 🏰🐉
-
-I am not just a developer; I am a tech sorcerer, turning lines of code into spells that make the digital realm bow to my command. Your software dreams are my potions, and I mix them with a dash of innovation and a sprinkle of awesomeness. Get ready for a journey into the enchanted world of tech with me! 🚀
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
