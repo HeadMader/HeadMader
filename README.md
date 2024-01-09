@@ -1,5 +1,10 @@
+<h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,  I`m Vlad aka Headmader
+</h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="150"/>
+<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" />
+
   <div id="badges">
     <a href="https://www.linkedin.com/in/vlad-nahornyi-889154239?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B864l7cJ3RMuLIu5IgsurQQ%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,6 +14,10 @@
   </a>
     <a href="https://t.me/Headmader">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  </a>
+    <a href="https://t.me/Headmader">
+    <img src="https://img.shields.io/badge/Steam-darkblue?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
   </div>
 </div>
@@ -43,9 +52,6 @@ I am not just a developer; I am a tech sorcerer, turning lines of code into spel
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite" alt="Sqlite" width="50" height="50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
 </div>
-
----
-
 
 <!--
 **HeadMader/HeadMader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
