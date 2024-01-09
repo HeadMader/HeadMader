@@ -24,17 +24,18 @@
 
 ---
 
-### :man_technologist: About Me 
-I am Full Stack Developer.
+## :man_technologist: About Me 
 
-- Mastering C#, I conjure up backend systems that are more powerful than a dragon's roar. 💻 
-- Weaving spells with Angular, I enchant users with front-end interfaces that are as smooth as a magic carpet ride. ✨
-- Commanding Visual Studio like a sorcerer's staff, I cast spells of efficiency and debug with the precision of a wizard's spellbook.🧙‍♂️
-- Conjuring magic with JavaScript and TypeScript, I make web applications dance to the beat of user interactions.🕺💃
-- Harnessing the power of ASP.NET, I build fortresses of web applications that can withstand the tests of time and cyber dragons. 🏰🐉
+#### I am Full Stack Developer.
+
+#### - Mastering C#, I conjure up backend systems that are more powerful than a dragon's roar. 💻 
+#### - Weaving spells with Angular, I enchant users with front-end interfaces that are as smooth as a magic carpet ride. ✨
+#### - Commanding Visual Studio like a sorcerer's staff, I cast spells of efficiency and debug with the precision of a wizard's spellbook.🧙‍♂️
+#### - Conjuring magic with JavaScript and TypeScript, I make web applications dance to the beat of user interactions.🕺💃
+#### - Harnessing the power of ASP.NET, I build fortresses of web applications that can withstand the tests of time and cyber dragons. 🏰🐉
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".Net Core" alt=".Net Core" width="40" height="50"/>&nbsp;
