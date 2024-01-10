@@ -9,14 +9,14 @@
     <a href="https://www.linkedin.com/in/vlad-nahornyi-889154239?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B864l7cJ3RMuLIu5IgsurQQ%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="your-youtube-URL">
+    <a href="https://www.instagram.com/headmader">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
     <a href="https://t.me/Headmader">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   </a>
-    <a href="https://t.me/Headmader">
+    <a href="https://steamcommunity.com/profiles/76561199202534426">
     <img src="https://img.shields.io/badge/Steam-darkblue?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
   </div>
