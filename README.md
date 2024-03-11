@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,  I`m Vlad aka Headmader
 </h1>
 <div id="header" align="center">
-<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg" />
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/vlad-nahornyi-889154239?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B864l7cJ3RMuLIu5IgsurQQ%3D%3D">
